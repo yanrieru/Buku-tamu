@@ -1,1 +1,1 @@
-This guestbook website is built using HTML, CSS, and PHP, featuring CRUD (Create, Read, Update, Delete) functionality that allows users to easily add, view, edit, and delete guest entries.
+This guestbook website is built using PHP and CSS, with CRUD (Create, Read, Update, Delete) features that let users easily add, view, edit, and delete guest entries.
