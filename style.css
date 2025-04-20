@@ -1,0 +1,14 @@
+/*
+1. Background Color (Solid, Gradient)
+2. Background Image
+3. Background Repeat
+4. Background Position
+*/
+
+body {
+    background-image: url(foto/pe.jpg);
+}
+
+h1{
+    font-family: "Montserrat", sans-serif;
+}
